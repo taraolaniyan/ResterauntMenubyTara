@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+*{
+	padding: 10;
+	margin: 10;
+	box-sizing: border-box;
+	font-family: 'Playfair Display', serif;
+}
+
+
+head{
+    font-size: 40px;
+}
+
+body {
+    color:#000000;
+  }
+
+h1 {
+     font-size: 20px;
+
+} 
+
+h2 {
+    font-size: 20px;
+
+} 
+
+h3 {
+    font-size: 20px;
+
+} 
+
+h4 {
+    font-size: 20px;
+
+} 
+
+h5 {
+    font-size: 20px;
+
+} 
+
+body {
+    background-image: url('https://wallpaperaccess.com/full/635988.png');
+  }
+  
